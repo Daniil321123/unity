@@ -79,8 +79,3 @@ public class PaintSave
     public float g { get; set; }
     public float b { get; set; }
 }
-[System.Serializable]
-public class CarSave
-{
-    public int frontBumper;
-}

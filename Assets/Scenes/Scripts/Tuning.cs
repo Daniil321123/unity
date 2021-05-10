@@ -430,7 +430,6 @@ public class Tuning : MonoBehaviour
         save.b = UIButtons.b;
         save.g = UIButtons.g;
         save.r = UIButtons.r;
-
         slManager.SaveGame(save);
     }
     //метод для установки бампера и сохраения 
